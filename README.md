@@ -9,22 +9,37 @@ This dataset compiles **Supreme Court judgments in India from 1950 to 2024**, pr
 
 ## 📂 Legal-Dataset-SC-Judgments-India
 
-│── 📄 README.md               
-# Project documentation 
-│── 📂 data/                 
-# Raw & processed Supreme Court judgment datasets 
-│── 📂 analysis/            
-# Research reports & case law interpretations
-│── 📂 models/               
-# NLP & AI models for legal text analysis 
+│── 📄 README.md  
+
+**Project documentation**
+
+│── 📂 data/        
+
+**Raw & processed Supreme Court judgment datasets**
+
+│── 📂 analysis/       
+
+**Research reports & case law interpretations**
+
+│── 📂 models/     
+
+**NLP & AI models for legal text analysis**
+
 │── 📂 results/               
-# Findings, summaries, and visualizations 
-│── 📂 config/                
-# Configuration files & metadata
+
+**Findings, summaries, and visualizations**
+
+│── 📂 config/      
+
+ **Configuration files & metadata**
+ 
 │── 📄 requirements.txt      
-# Dependencies for legal data processing 
+
+**Dependencies for legal data processing **
+
 │── 📄 LICENSE              
-# Legal information about usage
+
+ **Legal information about usage**
 
 ## 🔍 Key Focus Areas
 - **Landmark Supreme Court Judgments** – Key rulings that shaped Indian law.
